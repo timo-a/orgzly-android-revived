@@ -53,7 +53,7 @@ buildscript {
 
     versions.gson = '2.10'
 
-    versions.dropbox_core_sdk = '5.4.4'
+    versions.dropbox_core_sdk = '5.4.6'
 
     versions.juniversalchardet = '1.0.3'
 
